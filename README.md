@@ -49,10 +49,3 @@ Linux/Ubuntu &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Singularity &nbsp;|&nbsp; AWS Cl
 - [LinkedIn](https://linkedin.com/varshinivij)
 - [Portfolio Website](https://varshinivij.github.io/)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshinivij&show_icons=true&hide_title=true&count_private=true&theme=default" alt="Varshini's GitHub stats" />
-  <br>
-  <i>Let's build something amazing, one step at a time!</i>
-</p>
