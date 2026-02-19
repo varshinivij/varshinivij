@@ -1,15 +1,14 @@
 <!-- Hi there, I'm Varshini Vijay! 👋 -->
 <h1 align="center">Hi, I'm Varshini Vijay, a FullStack  & AI/ML Engineer !</h1>
 <p align="center">
-  <b>Student @ UC Irvine | Computer Science & Applied Math (Class of 2027)</b><br>
-  <i>Small steps, repeated, create change.</i>
+  <b>Student @ UC Irvine | Computer Science (Class of 2027)</b><br>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Student** at University of California, Irvine, studying **Computer Science & Applied Mathematics** (Graduating June 2027)
+- 🎓 **Student** at University of California, Irvine, studying **Computer Science** (Graduating June 2027)
 - 🛠️ Passionate about backend and AI-ML engineering. 
 
 ---
