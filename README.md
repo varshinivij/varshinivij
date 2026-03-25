@@ -4,6 +4,7 @@
   <b>Student @ UC Irvine | Computer Science (Class of 2027)</b><br>
 </p>
 
+currently learning about openclaw and autoresearch. 
 
 - [LinkedIn](https://linkedin.com/varshinivij)
 - [Portfolio Website](https://varshinivij.github.io/)
